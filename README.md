@@ -7,6 +7,6 @@ I'm Haeun, from 🇰🇷 **Korea**
 
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KimJunhoe153&show_icons=true&theme=tokyonight)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=haeun01&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimJunhoe153&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haeun01&layout=compact&theme=tokyonight)
