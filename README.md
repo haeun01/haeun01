@@ -32,7 +32,6 @@ I'm Haeun, from 🇰🇷 **Korea**
 <h3 align="center"><b>Social</b></h3>
 <p align="center">
 <a href="mailto:cjswldhkdpf@naver.com"><img src="https://img.shields.io/badge/Naver Mail-19CE60?style=for-the-badge&logo=naver&logoColor=white&link=mailto:cjswldhkdpf@naver.com"/></a>
-<a href="https://www.instagram.com/fish_gave_seaweed"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/fish_gave_seaweed"/></a>
 </p>
 
 <p align='center'>
