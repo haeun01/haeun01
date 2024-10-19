@@ -5,16 +5,16 @@
 # 😄 Hello, World! 반갑습니다.
 
 Welcome to my page!\
-I'm Junhoe, from 🇰🇷 **Korea**
+I'm Haeun, from 🇰🇷 **Korea**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KimJunhoe153&show_icons=true&theme=tokyonight" height="200px" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimJunhoe153&layout=compact&theme=tokyonight" height="200px" width="43%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=haeun01&show_icons=true&theme=tokyonight" height="200px" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haeun01&layout=compact&theme=tokyonight" height="200px" width="43%" alt="Top Languages" />
 </div>
 
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KimJunhoe153&theme=github-compact" alt="GitHub Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=haeun01&theme=github-compact" alt="GitHub Activity Graph" />
   </a>
 </div>
 
@@ -23,7 +23,7 @@ I'm Junhoe, from 🇰🇷 **Korea**
 <h3 align="center"><b>Skills</b></h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,figma,github,ps,pr,ae" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,figma,github" />
   </a>
 </p>
 
