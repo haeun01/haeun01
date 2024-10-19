@@ -29,9 +29,9 @@ I'm Haeun, from 🇰🇷 **Korea**
 
 </br>
 
-<h3 align="center"><b>Social</b></h3>
+<h3 align="center"><b>Email</b></h3>
 <p align="center">
-<a href="mailto:cjswldhkdpf@naver.com"><img src="https://img.shields.io/badge/Naver Mail-19CE60?style=for-the-badge&logo=naver&logoColor=white&link=mailto:cjswldhkdpf@naver.com"/></a>
+<a href="mailto:cjswldhkdpf@naver.com"><img src="https://img.shields.io/badge/Naver-19CE60?style=for-the-badge&logo=naver&logoColor=white&link=mailto:cjswldhkdpf@naver.com"/></a>
 </p>
 
 <p align='center'>
